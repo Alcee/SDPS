@@ -1,0 +1,74 @@
+﻿@using TCC_ALCINDO.Models;
+@model Cliente
+@{
+    ViewBag.Title = "Cadastro";
+    Layout = "~/views/Shared/_Layout.cshtml";
+}
+
+<h2>Cadastro de Cliente</h2>
+@*@Html.EditorForModel();*@
+@{ Html.BeginForm("Salvar", "Cliente");}
+@Html.ValidationSummary(true)
+
+<span class="label label-success">@TempData["SuccessMsg"]</span>
+<span class="label label-danger">@TempData["ErrorMsg"]</span>
+
+@*@Html.HiddenFor(x => x.Id)*@
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Nome)
+    @Html.TextBoxFor(x => x.Nome, new { @class = "form-control col-lg-12" })
+    @Html.ValidationMessageFor(x => x.Nome)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Login)
+    @Html.TextBoxFor(x => x.Login, new { @class = "form-control col-lg-12" })
+    @Html.ValidationMessageFor(x => x.Login)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Senha)
+    @Html.TextBoxFor(x => x.Senha, new { @class = "form-control col-lg-12", @type = "password" })
+    @Html.ValidationMessageFor(x => x.Senha)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Endereco)
+    @Html.ValidationMessageFor(x => x.Endereco)
+    @Html.TextBoxFor(x => x.Endereco, new { @class = "form-control col-lg-12" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Email)
+    @Html.ValidationMessageFor(x => x.Email)
+    @Html.TextBoxFor(x => x.Email, new { @class = "form-control col-lg-12" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Telefone)
+    @Html.ValidationMessageFor(x => x.Telefone)
+    @Html.TextBoxFor(x => x.Telefone, new { @class = "form-control col-lg-12" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Genero)
+    @Html.DropDownListFor(x => x.Genero, new[]
+    {
+        new SelectListItem() {Text = "- escolha - ", Value=""},
+        new SelectListItem() {Text = "Femenino  ", Value="F"},
+        new SelectListItem() {Text = "Masculino ", Value="M"},
+    },  new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Genero)
+</div>
+
+<div class="form-group">
+        @Html.LabelFor(x => x.CPF)
+        @Html.ValidationMessageFor(x => x.CPF)
+        @Html.TextBoxFor(x => x.CPF, new { @class = "form-control col-lg-12" })
+</div>
+
+    <input type="submit" class="btn btn-success" value="Salvar" />
+    @Html.ActionLink("Cancelar", "Index", "Cliente", new { @type = "button", @class = "btn btn-danger" })
+    @{ Html.EndForm();}
+

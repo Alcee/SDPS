@@ -1,0 +1,3 @@
+Executar o projeto pela Index => TCC_ALCINDO/Views/Home/Index
+O sistema deverá executar numa tela de "Bem vindo(a)"
+O sistema dará as opções no canto superior direito de se cadastrar e fazer login.

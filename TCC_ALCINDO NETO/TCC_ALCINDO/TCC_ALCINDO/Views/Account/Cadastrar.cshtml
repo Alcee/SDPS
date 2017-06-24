@@ -1,0 +1,94 @@
+﻿@model TCC_ALCINDO.Models.Cliente
+
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastrar</h2>
+
+@using (Html.BeginForm("Cadastrar", "Account", FormMethod.Post)) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+     
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nome)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nome)
+            @Html.ValidationMessageFor(model => model.Nome)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Login)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Login)
+            @Html.ValidationMessageFor(model => model.Login)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Senha)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.Senha)
+            @Html.ValidationMessageFor(model => model.Senha)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Endereco)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Endereco)
+            @Html.ValidationMessageFor(model => model.Endereco)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Telefone)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Telefone)
+            @Html.ValidationMessageFor(model => model.Telefone)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Genero)
+            @Html.DropDownListFor(x => x.Genero, new[]
+    {
+        new SelectListItem() {Text = "- escolha - ", Value=""},
+        new SelectListItem() {Text = "Femenino  ", Value="F"},
+        new SelectListItem() {Text = "Masculino ", Value="M"},
+    }, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Genero)
+        </div>
+
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CPF)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CPF)
+            @Html.ValidationMessageFor(model => model.CPF)
+        </div>
+
+        <p>
+            <a href="@Url.Action("Index","Home")"  class="btn btn-default">Cancelar</a>
+            <input type="submit"  class="btn btn-success"value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

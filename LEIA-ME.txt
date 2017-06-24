@@ -1,0 +1,8 @@
+Executar o projeto pela Index => TCC_ALCINDO/Views/Home/Index
+
+	1 - Execute o script do banco
+	2 - Verifique o web.config
+	
+
+O sistema deverá executar numa tela de "Bem vindo(a)"
+O sistema dará as opções no canto superior direito de se cadastrar e fazer login.

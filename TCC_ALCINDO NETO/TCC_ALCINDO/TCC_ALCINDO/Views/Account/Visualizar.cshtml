@@ -1,0 +1,44 @@
+﻿@model TCC_ALCINDO.Models.Cliente
+
+@{
+    ViewBag.Title = "Visualizar";
+}
+
+<h2>Visualizar Perfil</h2>
+
+<fieldset>
+    <legend>@Html.DisplayFor(model => model.Nome)</legend>
+
+    <div class="display-label">
+         <strong class="h6">@Html.DisplayNameFor(model => model.Endereco)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Endereco)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Email)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Telefone)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Telefone)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Genero)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Genero)
+    </div>
+
+</fieldset>
+<p>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-default">Cancelar</a>
+    <a href="@Url.Action("Editar", "Account", new { id=Model.Id})" class="btn btn-primary"> Editar</a>
+</p>

@@ -1,0 +1,67 @@
+﻿@using TCC_ALCINDO.Models;
+@model Produto
+@{
+    ViewBag.Title = "Cadastro";
+    Layout = "~/views/Shared/_Layout.cshtml";
+}
+
+<h2>Cadastro de Item</h2>
+@*@Html.EditorForModel();*@
+@{ Html.BeginForm("Salvar", "Produto");}
+@Html.ValidationSummary(true)
+
+<span class="label label-success">@TempData["SuccessMsg"]</span>
+<span class="label label-danger">@TempData["ErrorMsg"]</span>
+
+@*@Html.HiddenFor(x => x.Id)*@
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Nome)
+    @Html.TextBoxFor(x => x.Nome, new { @class = "form-control col-lg-12" })
+    @Html.ValidationMessageFor(x => x.Nome)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Preco)
+    @Html.TextBoxFor(x => x.Preco, new { @class = "form-control col-lg-12" })
+    @Html.ValidationMessageFor(x => x.Preco)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(x => x.Marca)
+    @Html.ValidationMessageFor(x => x.Marca)
+    @Html.TextBoxFor(x => x.Marca, new { @class = "form-control col-lg-12" })
+</div>
+
+<div>
+    @Html.DropDownListFor(model => model.Categoria, ((IEnumerable<Categoria>)ViewBag.Cadastro).Select(option => new SelectListItem
+{
+    Text = option.Nome,
+    Value = option.Id.ToString(),
+    Selected = (Model != null) && (Model.Id == option.Id)
+}), "Selecione uma categoria...", new { @class = "form-control" })
+</div>
+
+@*<div class="form-group">
+        @Html.LabelFor(x => x.Categoria)
+        @Html.ValidationMessageFor(x => x.Categoria)
+        @Html.TextBoxFor(x => x.Categoria, new { @class = "form-control col-lg-12" })
+    </div>*@
+@*    <button type="button" class="btn btn-primary">Primary</button>
+    <!-- Indicates a successful or positive action -->
+    <button type="button" class="btn btn-success">Success</button>
+
+    <!-- Contextual button for informational alert messages -->
+    <button type="button" class="btn btn-info">Info</button>
+
+    <!-- Indicates caution should be taken with this action -->
+    <button type="button" class="btn btn-warning">Warning</button>
+
+    <!-- Indicates a dangerous or potentially negative action -->
+    <button type="button" class="btn btn-danger">Danger</button>
+
+    <!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+    <button type="button" class="btn btn-link">Link</button>*@
+<input type="submit" class="btn btn-success" value="Salvar" />
+@Html.ActionLink("Cancelar", "Index", "Produto", new { @type = "button", @class = "btn btn-danger" })
+@{ Html.EndForm();}

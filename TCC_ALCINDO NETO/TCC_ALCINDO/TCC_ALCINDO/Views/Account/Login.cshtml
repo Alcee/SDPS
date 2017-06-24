@@ -1,0 +1,32 @@
+﻿@model TCC_ALCINDO.Models.LoginModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <span class="label label-success">@TempData["SuccessMsg"]</span>
+    <span class="label label-danger">@TempData["ErrorMsg"]</span>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.UserName)
+        @Html.TextBoxFor(x => x.UserName, new { @class = "form-control col-lg-12" })
+        @Html.ValidationMessageFor(x => x.UserName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Password)
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control col-lg-12" })
+        @Html.ValidationMessageFor(x => x.Password)
+    </div>
+
+
+
+
+    <input type="submit" class="btn btn-success" value="Login" />
+}

@@ -1,0 +1,334 @@
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Optimization.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebGrease.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll.config
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Optimization.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebGrease.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Net.Http.Formatting.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.WebHost.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Optimization.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebGrease.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Net.Http.Formatting.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.WebHost.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+E:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Optimization.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebGrease.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+L:\TCC\Programa\WebApplication\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.dll.config
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Optimization.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebGrease.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\EntityFramework.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.Data.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO - Cópia\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll.config
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Optimization.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\WebGrease.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+C:\Users\gabri\Desktop\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll.config
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\TCC_ALCINDO.pdb
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\WebGrease.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\EntityFramework.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Net.Http.Formatting.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Http.WebHost.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.Data.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\WebMatrix.WebData.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.dll
+C:\Users\Aluno\Downloads\TCC_ALCINDO (1)\TCC_ALCINDO\TCC_ALCINDO\obj\Debug\TCC_ALCINDO.pdb

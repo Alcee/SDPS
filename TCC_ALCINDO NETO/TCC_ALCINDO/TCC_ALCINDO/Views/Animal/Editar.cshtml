@@ -1,0 +1,102 @@
+﻿@model TCC_ALCINDO.Models.Animal
+
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar Animal</h2>
+@*@Html.EditorForModel();*@
+@{ Html.BeginForm("Salvar", "Animal", new { @idCliente = Model.Cliente.Id });}
+@Html.ValidationSummary(true)
+
+<span class="label label-success">@TempData["SuccessMsg"]</span>
+<span class="label label-danger">@TempData["ErrorMsg"]</span>
+
+@Html.
+    ,(x => x.Id)
+
+<fieldset>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Nome)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Nome)
+        @Html.ValidationMessageFor(model => model.Nome)
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Porte)
+    </div>
+    <div class="editor-field">
+        @Html.DropDownListFor(x => x.Porte, new[]
+                {
+                new SelectListItem() {Text = "- escolha - ", Value=""},
+                new SelectListItem() {Text = "Grande  ", Value="Grande"},
+                new SelectListItem() {Text = "Médio ", Value="Medio"},
+                new SelectListItem() {Text = "Pequeno ", Value="Pequeno"},
+                }, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Porte)
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Raca)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Raca)
+        @Html.ValidationMessageFor(model => model.Raca)
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Especie)
+    </div>
+    <div class="editor-field">
+        @Html.DropDownListFor(x => x.Especie, new[]
+                {
+                new SelectListItem() {Text = "- escolha - ", Value=""},
+                new SelectListItem() {Text = "Cão  ", Value="Cao"},
+                new SelectListItem() {Text = "Gato ", Value="Gato"},
+                }, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Especie)
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Genero)
+    </div>
+    <div class="editor-field">
+        @Html.DropDownListFor(x => x.Genero, new[]
+                {
+                new SelectListItem() {Text = "- escolha - ", Value=""},
+                new SelectListItem() {Text = "Fêmea  ", Value="F"},
+                new SelectListItem() {Text = "Macho ", Value="M"},
+                }, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Genero)
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Foto)
+    </div>
+    <div class="editor-field">
+        <input type="file" id="Foto" name="upload" />
+        @Html.ValidationMessageFor(model => model.Foto)
+    </div>
+
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.DataNascimento)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.DataNascimento, new { @type = "date" })
+        @Html.ValidationMessageFor(model => model.DataNascimento)
+    </div>
+
+
+    <p>
+    </p>
+</fieldset>
+
+
+<input type="submit" class="btn btn-success" value="Salvar" />
+@Html.ActionLink("Cancelar", "Editar", "Cliente", new { @id = Model.Cliente.Id }, new { @id = "button", @class = "btn btn-danger" })
+@{ Html.EndForm();}

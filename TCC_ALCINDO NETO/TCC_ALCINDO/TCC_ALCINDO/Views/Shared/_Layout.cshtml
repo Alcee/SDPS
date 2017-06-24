@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - TCC </title>
+    @Styles.Render("~/Content/bootstrap.min.css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-inverse ">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Abrir Menu</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("Index", "Cliente")">TCC</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Animal <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Novo", "Cadastro", "Animal")</li>
+                            <li>@Html.ActionLink("Visualizar todos", "Index", "Animal")</li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Produto <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Novo", "Cadastro", "Produto")</li>
+                            <li>@Html.ActionLink("Visualizar todos", "Index", "Produto")</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <form class="navbar-form navbar-left" action="@Url.Action("Index", "Cliente")">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Buscar cliente..." name="pesquisa">
+                    </div>
+                    <button type="submit" class="btn btn-default">Buscar</button>
+                </form>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (((TCC_ALCINDO.Models.Cliente)Session["Usuario"]) != null)
+                    {
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Minha conta <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="@Url.Action("Visualizar", "Account")">Visualizar perfil</a></li>
+                                <li><a href="@Url.Action("AlterarSenha", "Account")">Alterar senha</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="@Url.Action("LogOff", "Account")">Sair</a></li>
+                            </ul>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a href="@Url.Action("Cadastrar", "Account")"><span class="glyphicon glyphicon-user">Cadastrar</span></a>
+                            <a href="@Url.Action("Login", "Account")"><span class="glyphicon glyphicon-log-in">Login</span></a>
+                        </li>
+                    }
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - TCC Alcindo Neto - Contato com o Pet-Shop: Telefone (XX) XXXX-XXXX E-mail: exemplo@mail.com </p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

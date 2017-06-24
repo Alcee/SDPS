@@ -1,0 +1,68 @@
+﻿@model TCC_ALCINDO.Models.Animal
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>Animal</legend>
+
+    <div>
+        <img src="@Url.Action("VisualizarAnimal", new { id = Model.Id })" width="100px" height="100px" class="img-circle"/>
+    </div>
+
+
+    <div class="display-label">
+         <strong class="h6">@Html.DisplayNameFor(model => model.Nome)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nome)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Porte)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Porte)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Raca)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Raca)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Especie)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Especie)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.Genero)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Genero)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.DataNascimento)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DataNascimento)
+    </div>
+
+    <div class="display-label">
+        <strong class="h6">@Html.DisplayNameFor(model => model.DataCadastro)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DataCadastro)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id=Model.Id })
+</p>
